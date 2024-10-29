@@ -7,9 +7,14 @@ author_profile: true
 
 ## Education
 
-- **M.E. in Computer Technique**  
+- **Ph.D. in Computer Technique**  
+  [IR lab, University of Amsterdam](https://irlab.science.uva.nl/), Amsterdam, Netherland
+  **Period**: Sep 2021 — July 2025  
+  **Supervisor**: [Prof. Maarten de rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
+
+- **Ph.D. in Computer Technique**  
   [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/), Qingdao, China  
-  **Period**: Sep 2021 — July 2024  
+  **Period**: Sep 2021 — July 2026  
   **Supervisor**: [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
     
   ---
@@ -21,28 +26,22 @@ author_profile: true
 
 ## Research Experiences
 
-- **Research Assistant**  
-  [Leiden Institute of Advanced Computer Science, Leiden University](https://liacs.leidenuniv.nl/), Leiden, Netherlands.  
-  **Period**: Jun 2024 - Aug 2024   
-  **Supervisor**: [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
+- **Research Internship**  
+  [Search Science Team, Baidu Inc.])https://ir.baidu.com/), Beijing, China  
+  **Period**: Jun 2023 - Feb 2024  
+  **Supervisor**: [Lingyong Yan](https://yanlingyong.net/)
     
   ---
-- **Research Internship (The 2023 Tencent Rhino-Bird Research Elite Program)**  
-  [Weixin Group, Tencent Inc](https://www.tencent.com/en-us/about.html), Beijing, China  
+- **Research Internship**  
+  [Baidu Inc.])https://ir.baidu.com/), Beijing, China  
   **Period**: Jun 2023 - Feb 2024  
-  **Supervisor**: [Ruobing Xie](https://ruobingxie.github.io/)  
+  **Supervisor**: [Yukun Zhao](https://scholar.google.com/citations?user=7EI-gJAAAAAJ&hl=en&oi=sra)
     
 ---
 
 ## Work & Teaching Experiences
 
-- **Research and Development Internship**  
-  [NLP and KG Department, Baidu Inc](https://nlp.baidu.com/homepage/index), Beijing, China.  
-  **Period**: May 2022 - Feb 2023  
-  **Supervisor**: [Wei Li](https://weili-nlp.github.io/)
-    
-  ---
 - **Teaching Assistant**  
-  [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/), Qingdao, China.  
-  **Period**: 2021 - 2023  
-  **Course**: Introduction to Data Science (Spring).  
+  [University of Amsterdam](https://irlab.science.uva.nl/), Amsterdam, Netherland
+  **Period**: 2024.4 - 2024.9  
+  **Course**: Recommender systems.  
