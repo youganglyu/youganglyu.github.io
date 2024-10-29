@@ -5,19 +5,18 @@ permalink: /talks/
 author_profile: true
 ---
 ## Oral Presentations
-- **RecSys 2024 - Bari, Italy**  
-  **Title:** Towards Empathetic Conversational Recommender Systems  
+- **ROGEN@Recsys 2024 - bari, Italy**  
+  **Title:** Cognitive Biases in Large Language Models for News Recommendation
+  
+---
+- **AAAI 2023 - WASHINGTON, DC, USA**  
+  **Title:** Feature-Level Debiased Natural Language Understanding
 
 ---
-- **WSDM 2023 - Singapore**  
-  **Title:** Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation  
-
+- **EMNLP 2023 - Singapore**  
+  **Title:** Multi-Defendant Legal Judgment Prediction via Hierarchical Reasoning
+  
 ---
 ## Invited Talks
-
-- **[ByteDance](https://www.bytedance.com/en/) - Online, Nov 2024**  
-  **Title:** Conversational Recommender Systems
-
----
-- **University of Glasgow - Online, Nov 2024**  
-  **Title:** Knowledge based Conversational Recommender Systems
+- **University of Glasgow - Online, Dec 2024**  
+  **Title:** TBD
