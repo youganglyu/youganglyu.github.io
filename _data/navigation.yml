@@ -17,5 +17,5 @@ main:
   - title: "Awards"
     url: /awards/
     
-  - title: "CV"
-    url: "/assets/XiaoyuZhang_CV.pdf"
+  # - title: "CV"
+  #   url: "/assets/XiaoyuZhang_CV.pdf"
