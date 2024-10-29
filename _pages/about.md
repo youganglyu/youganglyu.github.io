@@ -1,17 +1,14 @@
 ---
 permalink: /
-title: "Xiaoyu Zhang"
+title: "Yougang Lyu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a recent graduate from the [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/), where I completed my Master’s degree in Computer Technique. I have been very fortunate to be advised by [Prof. Zhaochun Ren](https://renzhaochun.github.io/) from the [Leiden University](https://www.universiteitleiden.nl/en). 
+I'm a fourth-year PhD student at the [University of Amsterdam ](https://irlab.science.uva.nl/about/) and [Shandong University](https://www.sdu.edu.cn/). I have been very fortunate to be advised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/). 
 
-My current research areas include Recommender Systems and Natural Language Processing.
-
- **I am actively looking forward to pursuing a PhD position for Fall 2025 to further my research!** Please see my CV for more details. Feel free to contact me if you’re interested!
-
+My current research areas include large language model (LLM) alignment and  LLM-based agents for critical decision-making (legal, medical and finance tasks).
 
 
 
