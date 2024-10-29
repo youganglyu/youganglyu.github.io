@@ -27,13 +27,13 @@ author_profile: true
 ## Research Experiences
 
 - **Research Internship**  
-  [Search Science Team, Baidu Inc.])https://ir.baidu.com/), Beijing, China  
+  [Search Science Team, Baidu Inc.](https://ir.baidu.com/), Beijing, China  
   **Period**: Jun 2023 - Feb 2024  
   **Supervisor**: [Lingyong Yan](https://yanlingyong.net/)
     
   ---
 - **Research Internship**  
-  [Baidu Inc.])https://ir.baidu.com/), Beijing, China  
+  [Baidu Inc.](https://ir.baidu.com/), Beijing, China  
   **Period**: Jun 2023 - Feb 2024  
   **Supervisor**: [Yukun Zhao](https://scholar.google.com/citations?user=7EI-gJAAAAAJ&hl=en&oi=sra)
     
