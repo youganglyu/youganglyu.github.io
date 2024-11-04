@@ -12,16 +12,6 @@ author_profile: true
   **Period**: Sep 2021 — July 2025  
   **Supervisor**: [Prof. Maarten de rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
 
-- **Ph.D. in Computer Technique**  
-  [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/), Qingdao, China  
-  **Period**: Sep 2021 — July 2026  
-  **Supervisor**: [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
-    
-  ---
-- **B.E. in Computer Science**  
-  [School of Computer Science and Technology, Shandong University](https://www.cs.sdu.edu.cn/), Qingdao, China  
-  **Period**: Sep 2017 — July 2021   
-
 ---
 
 ## Research Experiences
