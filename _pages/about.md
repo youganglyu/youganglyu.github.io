@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth-year PhD student at the [University of Amsterdam ](https://irlab.science.uva.nl/about/). I have been very fortunate to be advised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/). 
+I'm a PhD student at the [University of Amsterdam ](https://irlab.science.uva.nl/about/). I have been very fortunate to be advised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/). 
 
 My current research areas include large language model (LLM) alignment and  LLM-based agents for critical decision-making (legal, medical and finance tasks).
 
@@ -50,7 +50,7 @@ Publications
 ---
 
    **Improving legal judgment prediction through reinforced criminal element extraction**  
-   **Yougang Lyu**, Zihan Wang, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Xiaozhong Liu, Yujun Li, Hongsong Li, Hongye Song 
+   **Yougang Lyu**, Zihan Wang, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Xiaozhong Liu, Yujun Li, Hongsong Li, Hongye Song  
    IPM 2022 [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002600)
 
 ---
