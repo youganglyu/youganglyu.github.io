@@ -49,6 +49,12 @@ Publications
 
 ---
 
+   **Improving legal judgment prediction through reinforced criminal element extraction**  
+   **Yougang Lyu**, Zihan Wang, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Xiaozhong Liu, Yujun Li, Hongsong Li, Hongye Song 
+   IPM 2022 [paper](https://www.sciencedirect.com/science/article/pii/S0306457321002600)
+
+---
+
 
 ## Oral Presentations
 - **ROGEN@Recsys 2024 - bari, Italy**  
