@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm a PhD student at the [University of Amsterdam ](https://irlab.science.uva.nl/about/). I have been very fortunate to be advised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/). 
 
-My current research areas include large language model (LLM) alignment and  LLM-based agents for critical decision-making (legal, medical and finance tasks).
+My current research areas include large language model (LLM) alignment and  LLM-based agents for high-stake decision-making applications.
 
 Publications
 ---
