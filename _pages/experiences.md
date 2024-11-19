@@ -9,7 +9,7 @@ author_profile: true
 
 - **Ph.D. in Computer Technique**  
   [IR lab, University of Amsterdam](https://irlab.science.uva.nl/), Amsterdam, Netherland
-  **Period**: Jan 2024 — Present
+  **Period**: Oct 2023 — Present
   **Supervisor**: [Prof. Maarten de rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
 
 ---
