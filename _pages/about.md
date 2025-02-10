@@ -29,7 +29,7 @@ Publications
 
    **MACPO: Weak-to-Strong Alignment via Multi-Agent Contrastive Preference Optimization**  
    **Yougang Lyu**, Lingyong Yan, Zihan Wang, Dawei Yin, Pengjie Ren, Maarten de Rijke, Zhaochun Ren  
-   Arxiv, under review [paper](https://arxiv.org/pdf/2410.07672)
+   ICLR 2025 [paper](https://arxiv.org/pdf/2410.07672)
 
 ---
 
@@ -72,8 +72,8 @@ Publications
   
 ---
 ## Invited Talks
-- **University of Glasgow - Online, Dec 2024**  
-  **Title:** TBD
+- **University of Glasgow - Online, Feb 2025**  
+  **Title:** Aligning Language Models with Human Understanding and Behavior
 ---
 
 ## Awards
