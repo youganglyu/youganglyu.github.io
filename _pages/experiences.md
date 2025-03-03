@@ -10,11 +10,13 @@ author_profile: true
 - **Ph.D. in Computer Technique**  
   [IR lab, University of Amsterdam](https://irlab.science.uva.nl/), Amsterdam, Netherland
   **Period**: 2021 — Present
+  
   **Supervisor**: [Prof. Maarten de rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
 
 - **BE. in Computer Science**  
   [IR lab, Shandong University](https://ir.sdu.edu.cn/index_en.htm), Shandong, China
   **Period**: 2017 — 2021
+  
   **Supervisor**: [Prof. Zhaochun Ren](https://renzhaochun.github.io/)  
 ---
 
