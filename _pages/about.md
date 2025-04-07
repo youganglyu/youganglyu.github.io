@@ -10,10 +10,7 @@ I'm a final year PhD student at the [University of Amsterdam ](https://irlab.sci
 
 My research focuses on aligning large language models (LLMs) and exploring their applications in information retrieval and recommender systems. I’m particularly interested in bridging the gap between cutting-edge AI research and real-world deployment by advancing the development of trustworthy next-generation language agents.
 
-I'm currently seeking a postdoctoral position—feel free to reach out if you know of any opportunities!
-
-Feel free to contact me for any form of collaboration!
-
+I am on the job market now! Feel free to reach out if you know of any opportunities!
 
 Publications
 ---
