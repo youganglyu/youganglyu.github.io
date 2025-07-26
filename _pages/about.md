@@ -6,11 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a final year PhD student at the [University of Amsterdam ](https://irlab.science.uva.nl/about/). Graduation expected in July 2025. I have been very fortunate to be advised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/). 
+I completed my PhD at the [University of Amsterdam ](https://irlab.science.uva.nl/about/). I have been very fortunate to be advised by [Prof. Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/) and [Prof. Zhaochun Ren](https://renzhaochun.github.io/). 
 
 My research focuses on aligning large language models (LLMs) and exploring their applications in information retrieval and recommender systems. I’m particularly interested in bridging the gap between cutting-edge AI research and real-world deployment by advancing the development of trustworthy next-generation language agents.
 
 I am on the job market now! Feel free to reach out if you know of any opportunities!
+
 
 Publications
 ---
